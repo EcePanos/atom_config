@@ -1,0 +1,13 @@
+atom-rst-preview-docutils@1.0.0
+compare-files@0.8.1
+language-docker@1.1.8
+language-ini@1.21.0
+language-restructuredtext@1.1.2
+language-systemd@0.1.1
+language-vue@0.24.0
+linter@2.3.0
+linter-flake8@2.4.0
+markdown-pdf@2.2.0
+platformio-ide-terminal@2.9.1
+rst-preview-pandoc@0.1.12
+

@@ -1,0 +1,16 @@
+"*":
+  core:
+    disabledPackages: [
+      "linter"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "8c6f2e15-dd55-42f9-b8c0-c82ac3f2ad9a"
+  "platformio-ide-terminal":
+    style: {}
+  "rst-preview-pandoc":
+    pandocOpts: "-frst -thtml --webtex"
+  welcome:
+    showOnStartup: false
